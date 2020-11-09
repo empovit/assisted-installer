@@ -13,7 +13,7 @@ require (
 	github.com/jpillora/backoff v1.0.0
 	github.com/kelseyhightower/envconfig v1.4.0
 	github.com/metal3-io/baremetal-operator v0.0.0-20200828204955-fc35b7691a8e
-	github.com/onsi/ginkgo v1.14.0
+	github.com/onsi/ginkgo v1.14.2
 	github.com/onsi/gomega v1.10.1
 	github.com/openshift/api v0.0.0-20200326152221-912866ddb162
 	github.com/openshift/assisted-installer-agent v0.0.0-20200811180147-bc9c7b899b8a
